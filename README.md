@@ -1,4 +1,4 @@
-<h1> Hi 👋,  -> This is Md Abu Sayed</h1>
+<h1> Hi 👋,  -> This is Md Abu Sayed.</h1>
 
 ### Frontend and UI Engineer at Brainstation-23, from Bangladesh.
 
@@ -6,7 +6,8 @@
 - 👀 I’m interested in React, UI, HTML, CSS, SCSS, BEM, ATOMIC design, storybook, Javascript, AEM front-end or any Web platform front-end UI.
 - 🌱 I’m currently learning React Storybook with AEM integration
 - 💞️ I’m looking to collaborate on Open source software
-- 📫 How to reach me ...
+
+<h2>I have another profile <a href="https://github.com/sayedbs/sayed021" target="_blank">Github/sayed021</a></h2>
   
 ###
 
