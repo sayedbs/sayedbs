@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React Storybook with AEM integration
 - 💞️ I’m looking to collaborate on Open source software
 
-<h2>I have another profile <a href="https://github.com/sayedbs/sayed021" target="_blank">Github/sayed021</a></h2>
+<h2>I have another profile <a href="https://github.com/sayed021" target="_blank">Github/sayed021</a></h2>
   
 ###
 
